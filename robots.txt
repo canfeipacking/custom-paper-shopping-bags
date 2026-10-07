@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://canfeipacking.github.io/custom-paper-shopping-bags/sitemap.xml

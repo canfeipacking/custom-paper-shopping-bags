@@ -1,0 +1,47 @@
+== Building Canfei Custom Paper Shopping Bags site ==
+   BASE=https://canfeipacking.github.io/custom-paper-shopping-bags
+   MEDIA_REL=../paper-bags-supplier
+-----------------------------------------------------------------
+  built  about-canfei-packing.html                    -> about-canfei-packing.html
+  built  benefits-of-paper-bags-vs-plastic.html       -> benefits-of-paper-bags-vs-plastic.html
+  built  charcoal-black-paper-bags.html               -> charcoal-black-paper-bags.html
+  built  christmas-gift-paper-bags.html               -> christmas-gift-paper-bags.html
+  built  contact-us.html                              -> contact-us.html
+  built  custom-gift-paper-bags.html                  -> custom-gift-paper-bags.html
+  built  custom-kraft-paper-bags-wholesale.html       -> custom-kraft-paper-bags-wholesale.html
+  built  custom-paper-bag-printing.html               -> custom-paper-bag-printing.html
+  built  custom-paper-bags-supplier.html              -> custom-paper-bags-supplier.html
+  built  custom-printed-paper-bags.html               -> custom-printed-paper-bags.html
+  built  eco-friendly-paper-bags-fsc.html             -> eco-friendly-paper-bags-fsc.html
+  built  flat-handle-paper-bags.html                  -> flat-handle-paper-bags.html
+  built  food-safe-kraft-paper-bags.html              -> food-safe-kraft-paper-bags.html
+  built  greaseproof-wax-paper-bags.html              -> greaseproof-wax-paper-bags.html
+  built  how-to-choose-paper-bag-material.html        -> how-to-choose-paper-bag-material.html
+  built  how-to-customize-paper-shopping-bags.html    -> how-to-customize-paper-shopping-bags.html
+  built  index.html                                   -> index.html
+  built  kraft-paper-bag-characteristics.html         -> kraft-paper-bag-characteristics.html
+  built  kraft-paper-grocery-bags.html                -> kraft-paper-grocery-bags.html
+  built  kraft-paper-pouch-bags.html                  -> kraft-paper-pouch-bags.html
+  built  luxury-gift-paper-boxes.html                 -> luxury-gift-paper-boxes.html
+  built  luxury-white-paper-bags.html                 -> luxury-white-paper-bags.html
+  built  matte-black-paper-bags.html                  -> matte-black-paper-bags.html
+  built  multiwall-kraft-paper-sacks.html             -> multiwall-kraft-paper-sacks.html
+  built  natural-brown-kraft-paper-bags.html          -> natural-brown-kraft-paper-bags.html
+  built  paper-bag-handle-styles.html                 -> paper-bag-handle-styles.html
+  built  paper-bag-materials-guide.html               -> paper-bag-materials-guide.html
+  built  paper-bag-pricing-factors.html               -> paper-bag-pricing-factors.html
+  built  paper-bag-sizes-chart.html                   -> paper-bag-sizes-chart.html
+  built  paper-bags-without-handles.html              -> paper-bags-without-handles.html
+  built  paper-mailing-shipping-bags.html             -> paper-mailing-shipping-bags.html
+  built  paper-potato-french-fry-bags.html            -> paper-potato-french-fry-bags.html
+  built  paper-shopping-bags-manufacturers.html       -> paper-shopping-bags-manufacturers.html
+  built  paper-wine-bottle-bags.html                  -> paper-wine-bottle-bags.html
+  built  printed-paper-carry-bags.html                -> printed-paper-carry-bags.html
+  built  sos-string-handle-paper-bags.html            -> sos-string-handle-paper-bags.html
+  built  square-bottom-paper-bags.html                -> square-bottom-paper-bags.html
+  built  types-of-custom-paper-bags.html              -> types-of-custom-paper-bags.html
+  built  video-showcase.html                          -> video-showcase.html
+  built  white-kraft-paper-bags.html                  -> white-kraft-paper-bags.html
+  sitemap.xml  (40 urls)
+-----------------------------------------------------------------
+== Done. Pages written to: /d/123/canfeicn/paper-shopping-bags-site ==
